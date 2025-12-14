@@ -22,7 +22,7 @@ qrcode library
 
 Install the required library using pip:
 
-pip install qrcode[pil]
+pip install qrcode
 
 ▶️ How to Run
 
